@@ -1,0 +1,4 @@
+id,filename,category,experience_years,skills,education,text
+1,john_doe_resume.pdf,Data Science,3,"Python, SQL, Machine Learning, Pandas",Bachelor in Computer Science,"Experienced data scientist with 3 years in Python, SQL, and machine learning..."
+2,jane_smith_resume.pdf,Software Engineering,5,"Java, Spring Boot, React, Docker",Master in Software Engineering,"Senior software engineer with 5 years experience in Java, Spring Boot..."
+3,mike_johnson_resume.pdf,Product Management,7,"Product Strategy, Agile, User Research, Analytics",MBA in Business Administration,Product manager with 7 years experience in product strategy and agile methodologies...
